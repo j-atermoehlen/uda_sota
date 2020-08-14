@@ -1,0 +1,51 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+%\pagestyle{empty}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{makecell}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage{color, colortbl}
+\usepackage{bibentry} 
+
+\usepackage{rotating}
+\input{./tu_bs_colors}
+%\usetikzlibrary{positioning}
+%\usetikzlibrary{shapes,arrows}
+%\usetikzlibrary{decorations.pathreplacing,angles,quotes}
+%\usetikzlibrary{calc}
+%\usetikzlibrary{dsp}
+
+\newcommand{\rot}[1]{\rotatebox{90}{#1}}
+% Include other packages here, before hyperref.
+\usepackage{hyperref}
+% If you comment hyperref and then uncomment it, you should delete
+% egpaper.aux before re-running latex.  (Or just hit 'q' on the first latex
+% run, let it finish, and you should be clear).
+
+% Pages are numbered in submission mode, and unnumbered in camera-ready
+\thispagestyle{empty} 
+\pagenumbering{gobble}
+\begin{document}
+\begin{center}
+\renewcommand{\arraystretch}{1}
+\setlength{\tabcolsep}{0.25em}
+\begin{table*}[ht]
+	%\resizebox{2\columnwidth}{!}{%
+	\input{table_gta5-cs}
+	\label{tab:subsets}
+\end{table*}
+\end{center}
+
+{
+\bibliographystyle{ieeetr}
+\bibliography{../bibliography/ifn_spaml_bibliography}
+}
+\end{document}
