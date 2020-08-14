@@ -1,2 +1,1 @@
-# uda_sota
-State of the art overview of unsupervised domain adaptation methods
+#SOTA of Unsupervised Domain Adapation for Semantic Segmentation (GTA5 → Cityscapes) 
