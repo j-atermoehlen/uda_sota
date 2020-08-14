@@ -1,1 +1,1 @@
-#SOTA of Unsupervised Domain Adapation for Semantic Segmentation (GTA5 → Cityscapes) 
+# SOTA of Unsupervised Domain Adapation for Semantic Segmentation (GTA5 → Cityscapes) 
