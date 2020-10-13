@@ -32,9 +32,9 @@ CCM [29]            | ResNet-101 | | | | 49.9 | [✔](https://github.com/Solacex
 CAG-UDA [30]       | ResNet-101 | :x: | :x: | ✔ | 50.2 | [✔](https://github.com/RogerZhangzz/CAG_UDA)
 LTIR [11]           | ResNet-101 | ✔ | ✔ | ✔ | 50.2 | [✔](https://github.com/MyeongJin-Kim/Learning-Texture-Invariant-Representation)
 FDA-MBT [10]       | ResNet-101 | ✔ | :x: | ✔ | 50.5 | [✔](https://github.com/YanchaoYang/FDA)
-CRST(MRKLD) + TPLD [31] | ResNet-101 | | | | 51.2 | -
-IAST [32]         | ResNet-101 | | | | 51.5 | [✔](https://github.com/Raykoooo/IAST)
-IAST-MST [32]          | ResNet-101 | | | | 52.2 | [✔](https://github.com/Raykoooo/IAST)
+CRST(MRKLD) + TPLD [31] | ResNet-101 | :x: | ✔ | ✔ | 51.2 | -
+IAST [32]         | ResNet-101 | :x: | ✔ | ✔ | 51.5 | [✔](https://github.com/Raykoooo/IAST)
+IAST-MST [32]          | ResNet-101 | :x: | ✔ | ✔ | 52.2 | [✔](https://github.com/Raykoooo/IAST)
 
 ## References
 <sub> [[1]  J. Hoffman, D. Wang, F. Yu, and T. Darrell, **“FCNs in the Wild: Pixel-Level Adversarial and ConstraintBased Adaptation,”** arXiv, Dec. 2016.](https://arxiv.org/abs/1612.02649)  
