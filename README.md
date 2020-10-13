@@ -6,12 +6,12 @@
 | FCN-ITW [[1]](https://arxiv.org/abs/1612.02649) | VGG-16            | :x: | ✔   | :x: | 27.1     | -    | 
 | SIBAN [2]    | VGG-16            |  |  |  | 27.1     | -    | 
 ||||
-DCAN [5]               | ResNet-101 | | | | 38.5 | [✔](http://zxwu.azurewebsites.net/dcan.zip)
-DLOW [13]       | ResNet-101 |  | | | 42.3 | [✔](https://github.com/ETHRuiGong/DLOW)
-AdaptSegNet [14] 	   | ResNet-101 |  | | | 42.4 | [✔](https://github.com/wasidennis/AdaptSegNet)	
-SIBAN [2]			   | ResNet-101 |  | | | 42.6 | - 
-CyCADA [3]  		   | ResNet-101 | ✔ | ✔ | :x: |  42.7 | [✔](https://github.com/jhoffman/cycada_release)
-CLAN [6]		   | ResNet-101 | | | | 43.2 | -
+DCAN [5]               | ResNet-101 |  ✔  | :o: | :x: | 38.5 | [✔](http://zxwu.azurewebsites.net/dcan.zip)
+DLOW [13]              | ResNet-101 |  ✔  |  ✔  | :x: | 42.3 | [✔](https://github.com/ETHRuiGong/DLOW)
+AdaptSegNet [14] 	     | ResNet-101 | :x: |  ✔  | :x: | 42.4 | [✔](https://github.com/wasidennis/AdaptSegNet)	
+SIBAN [2]			         | ResNet-101 |  | | |  42.6 | - 
+CyCADA [3]  		       | ResNet-101 | ✔ | ✔ | :x: |  42.7 | [✔](https://github.com/jhoffman/cycada_release)
+CLAN [6]		           | ResNet-101 | | | | 43.2 | -
 SWD [15]            | ResNet-101 | | | | 44.5 | [✔](https://github.com/apple/ml-cvpr2019-swd)
 SSF-DAN [16]		   | ResNet-101 | | | | 45.4 | -
 ADVENT [17]         | ResNet-101 | :x: | ✔ | :x: | 45.5 | [✔](https://github.com/valeoai/ADVENT)
