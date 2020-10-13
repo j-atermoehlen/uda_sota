@@ -22,7 +22,7 @@ DPR [7]			   | ResNet-101 | | | | 46.5 | -
 SWLS [21]		   | ResNet-101 | | | | 47.2 | -
 PyCDA [22]		   | ResNet-101 | | | | 47.4 | -
 LSE+FL [23]	       | ResNet-101 | | | | 47.5 | -
-BDL [24]           | ResNet-101 | | | | 48.5 | [✔](https://github.com/liyunsheng13/BDL)
+BDL [24]           | ResNet-101 | ✔ | ✔ | ✔ | 48.5 | [✔](https://github.com/liyunsheng13/BDL)
 CSCL [25]           | ResNet-101 | | | | 48.6 | -
 CrCDA [26]          | ResNet-101 | | | | 48.6 | -
 SISC-PWL [27]	   | ResNet-101 | | | | 49.0 | -
