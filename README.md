@@ -27,7 +27,7 @@ CSCL [25]           | ResNet-101 | | | | 48.6 | -
 CrCDA [26]          | ResNet-101 | | | | 48.6 | -
 SISC-PWL [27]	   | ResNet-101 | | | | 49.0 | -
 SIM [9]            | ResNet-101 | ✔ | ✔ | ✔ | 49.2 | [✔](https://github.com/SHI-Labs/Unsupervised-Domain-Adaptation-with-Differential-Treatment)
-LDR [28]            | ResNet-101 | | | | 49.5 | -
+LDR [28]            | ResNet-101 | ✔ | ✔ | :x: | 49.5 | -
 CCM [29]            | ResNet-101 | :x: | :x: | ✔ | 49.9 | [✔](https://github.com/Solacex/CCM)
 CAG-UDA [30]       | ResNet-101 | :x: | :x: | ✔ | 50.2 | [✔](https://github.com/RogerZhangzz/CAG_UDA)
 LTIR [11]           | ResNet-101 | ✔ | ✔ | ✔ | 50.2 | [✔](https://github.com/MyeongJin-Kim/Learning-Texture-Invariant-Representation)
