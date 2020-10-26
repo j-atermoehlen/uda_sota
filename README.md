@@ -9,32 +9,33 @@
 DCAN [5]               | ResNet-101 |  ✔  | :o: | :x: | 38.5 | [✔](http://zxwu.azurewebsites.net/dcan.zip)
 DLOW [13]              | ResNet-101 |  ✔  |  ✔  | :x: | 42.3 | [✔](https://github.com/ETHRuiGong/DLOW)
 AdaptSegNet [14] 	     | ResNet-101 | :x: |  ✔  | :x: | 42.4 | [✔](https://github.com/wasidennis/AdaptSegNet)	
-SIBAN [2]			         | ResNet-101 |  | | |  42.6 | - 
-CyCADA [3]  		       | ResNet-101 | ✔ | ✔ | :x: |  42.7 | [✔](https://github.com/jhoffman/cycada_release)
-CLAN [6]		           | ResNet-101 | | | | 43.2 | -
-SWD [15]            | ResNet-101 | | | | 44.5 | [✔](https://github.com/apple/ml-cvpr2019-swd)
-SSF-DAN [16]		   | ResNet-101 | | | | 45.4 | -
-ADVENT [17]         | ResNet-101 | :x: | ✔ | :x: | 45.5 | [✔](https://github.com/valeoai/ADVENT)
-IntraDA [18]        | ResNet-101 | | | | 46.3 | [✔](https://github.com/feipan664/IntraDA)
-MSL [19]            | ResNet-101 | | | | 46.4 | [✔](https://github.com/ZJULearning/MaxSquareLoss)		
-PANDA [20]		   | ResNet-101 | | | | 46.5 | -
-DPR [7]			   | ResNet-101 | | | | 46.5 | -
-SWLS [21]		   | ResNet-101 | | | | 47.2 | -
-PyCDA [22]		   | ResNet-101 | | | | 47.4 | -
-LSE+FL [23]	       | ResNet-101 | | | | 47.5 | -
-BDL [24]           | ResNet-101 | ✔ | ✔ | ✔ | 48.5 | [✔](https://github.com/liyunsheng13/BDL)
-CSCL [25]           | ResNet-101 | | | | 48.6 | -
-CrCDA [26]          | ResNet-101 | | | | 48.6 | -
-SISC-PWL [27]	   | ResNet-101 | | | | 49.0 | -
-SIM [9]            | ResNet-101 | ✔ | ✔ | ✔ | 49.2 | [✔](https://github.com/SHI-Labs/Unsupervised-Domain-Adaptation-with-Differential-Treatment)
-LDR [28]            | ResNet-101 | ✔ | ✔ | :x: | 49.5 | -
-CCM [29]            | ResNet-101 | :x: | :x: | ✔ | 49.9 | [✔](https://github.com/Solacex/CCM)
-CAG-UDA [30]       | ResNet-101 | :x: | :x: | ✔ | 50.2 | [✔](https://github.com/RogerZhangzz/CAG_UDA)
-LTIR [11]           | ResNet-101 | ✔ | ✔ | ✔ | 50.2 | [✔](https://github.com/MyeongJin-Kim/Learning-Texture-Invariant-Representation)
-FDA-MBT [10]       | ResNet-101 | ✔ | :x: | ✔ | 50.5 | [✔](https://github.com/YanchaoYang/FDA)
-CRST(MRKLD) + TPLD [31] | ResNet-101 | :x: | ✔ | ✔ | 51.2 | -
-IAST [32]         | ResNet-101 | :x: | ✔ | ✔ | 51.5 | [✔](https://github.com/Raykoooo/IAST)
-IAST-MST [32]          | ResNet-101 | :x: | ✔ | ✔ | 52.2 | [✔](https://github.com/Raykoooo/IAST)
+SIBAN [2]			         | ResNet-101 | :x: |  ✔  | :x: |  42.6 | - 
+CyCADA [3]  		       | ResNet-101 |  ✔  |  ✔  | :x: |  42.7 | [✔](https://github.com/jhoffman/cycada_release)
+CLAN [6]		           | ResNet-101 | :x: |  ✔  | :x: | 43.2 | -
+SWD [15]               | ResNet-101 | :x: | (✔) | :x: | 44.5 | [✔](https://github.com/apple/ml-cvpr2019-swd)
+SSF-DAN [16]		       | ResNet-101 | :x: |  ✔  |  ✔  | 45.4 | -
+ADVENT [17]            | ResNet-101 | :x: |  ✔  | :x: | 45.5 | [✔](https://github.com/valeoai/ADVENT)
+IntraDA [18]           | ResNet-101 | :x: |  ✔  |  ✔  | 46.3 | [✔](https://github.com/feipan664/IntraDA)
+MSL [19]               | ResNet-101 | :x: |  ✔  |(:x:)| 46.4 | [✔](https://github.com/ZJULearning/MaxSquareLoss)		
+PANDA [20]		         | ResNet-101 | :x: |  ✔  | :x: | 46.5 | -
+DPR [7]			           | ResNet-101 | :x: |  ✔  |  ✔  | 46.5 | -
+SWLS [21]		           | ResNet-101 | :x: |  ✔  |  ✔  | 47.2 | -
+PyCDA [22]		         | ResNet-101 | :x: | :x: |  ✔  | 47.4 | -
+LSE+FL [23]	           | ResNet-101 | :x: | :x: |  ✔  | 47.5 | -
+BDL [24]               | ResNet-101 |  ✔  |  ✔  |  ✔  | 48.5 | [✔](https://github.com/liyunsheng13/BDL)
+CSCL [25]              | ResNet-101 | :x: |  ✔  |  ✔  | 48.6 | -
+CrCDA [26]             | ResNet-101 | :x: |  ✔  | :x: | 48.6 | -
+SIM [9]                | ResNet-101 |  ✔  |  ✔  |  ✔  | 49.2 | [✔](https://github.com/SHI-Labs/Unsupervised-Domain-Adaptation-with-Differential-Treatment)
+LDR [28]               | ResNet-101 |  ✔  |  ✔  | :x: | 49.5 | -
+CCM [29]               | ResNet-101 | :x: | :x: |  ✔  | 49.9 | [✔](https://github.com/Solacex/CCM)
+CAG-UDA [30]           | ResNet-101 | :x: | :x: |  ✔  | 50.2 | [✔](https://github.com/RogerZhangzz/CAG_UDA)
+LTIR [11]              | ResNet-101 |  ✔  |  ✔  |  ✔  | 50.2 | [✔](https://github.com/MyeongJin-Kim/Learning-Texture-Invariant-Representation)
+FDA-MBT [10]           | ResNet-101 |  ✔  | :x: |  ✔  | 50.5 | [✔](https://github.com/YanchaoYang/FDA)
+CRST(MRKLD)+TPLD [31]  | ResNet-101 | :x: |  ✔  |  ✔  | 51.2 | -
+IAST [32]              | ResNet-101 | :x: |  ✔  |  ✔  | 51.5 | [✔](https://github.com/Raykoooo/IAST)
+IAST-MST [32]          | ResNet-101 | :x: |  ✔  |  ✔  | 52.2 | [✔](https://github.com/Raykoooo/IAST)
+||||
+SISC-PWL [27]	         | ResNet-38 | | | | 49.0 | -
 
 ## References
 <sub> [[1]  J. Hoffman, D. Wang, F. Yu, and T. Darrell, **“FCNs in the Wild: Pixel-Level Adversarial and ConstraintBased Adaptation,”** arXiv, Dec. 2016.](https://arxiv.org/abs/1612.02649)  
