@@ -4,7 +4,7 @@
 | Method       | Feature Extractor | ST  | AA  | SL | mIoU [%] | Code |
 | ------------ | :---------------: | --- | --- | -- | -------: | :--: |
 | FCN-ITW [[1]](https://arxiv.org/abs/1612.02649) | VGG-16            | :x: | ✔   | :x: | 27.1     | -    | 
-| SIBAN [2]    | VGG-16            |  |  |  | 27.1     | -    | 
+| SIBAN [2]    | VGG-16            | :x: | ✔ | :x: | 27.1     | -    | 
 ||||
 DCAN [5]               | ResNet-101 |  ✔  | :o: | :x: | 38.5 | [✔](http://zxwu.azurewebsites.net/dcan.zip)
 DLOW [13]              | ResNet-101 |  ✔  |  ✔  | :x: | 42.3 | [✔](https://github.com/ETHRuiGong/DLOW)
